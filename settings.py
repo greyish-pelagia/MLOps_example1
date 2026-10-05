@@ -1,7 +1,7 @@
 from pydantic import field_validator
 from pydantic_settings import BaseSettings
 
-_ALLOWED_ENV_TYPES = {"dev", "test", "prod,"}
+_ALLOWED_ENV_TYPES = {"dev", "test", "prod"}
 
 
 class Settings(BaseSettings):
