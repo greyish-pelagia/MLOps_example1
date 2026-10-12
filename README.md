@@ -17,4 +17,6 @@ curl -X 'POST' \
 
 ## Screenshots
 
-![Chart](<assets/Screenshot 2026-10-12 at 23.34.08.png>)
+![Docker](<assets/Screenshot 2026-10-12 at 23.34.08.png>)
+
+![Docker_compose](<assets/Screenshot 2026-10-12 at 23.43.51.png>)
